@@ -1,0 +1,6 @@
+[submodule "JUNQ-Protocol-Py"]
+	path = JUNQ-Protocol-Py
+	url = https://github.com/jus7nyan/JUNQ-Protocol-Py
+[submodule "python/JUNQ-Protocol-Py"]
+	path = python/JUNQ-Protocol-Py
+	url = https://github.com/jus7nyan/JUNQ-Protocol-Py
