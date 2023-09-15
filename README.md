@@ -4,7 +4,6 @@ JUNQ-Protocol is a p2p messaging and data exchange protocol
 
 technologies used:
  - [yggdrasil](https://github.com/yggdrasil-network)
- - 
 
 
 This repository have JUNQ-Protocol implementations in:
